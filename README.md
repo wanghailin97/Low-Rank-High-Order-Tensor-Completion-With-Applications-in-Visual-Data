@@ -15,6 +15,5 @@ If this toolbox or the LRTC-HTNN code is helpful for you, please cite:
   volume={31},  
   pages={2433--2448},  
   year={2022},  
-  publisher={IEEE}  
-}
+  publisher={IEEE}}
 
