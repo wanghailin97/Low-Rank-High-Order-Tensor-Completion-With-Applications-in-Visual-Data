@@ -7,13 +7,22 @@ The main contributions of this work including:
 3. several applications to various high-order visual tensor data recovery is studied.  
 
 If this toolbox or the LRTC-HTNN code is helpful for you, please cite:
+
 @article{qin2022low,
+
   title={Low-rank high-order tensor completion with applications in visual data},
+  
   author={Qin, Wenjin and Wang, Hailin and Zhang, Feng and Wang, Jianjun and Luo, Xin and Huang, Tingwen},
+  
   journal={IEEE Transactions on Image Processing},
+  
   volume={31},
+  
   pages={2433--2448},
+  
   year={2022},
+  
   publisher={IEEE}
+  
 }
 
